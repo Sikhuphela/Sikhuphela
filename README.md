@@ -2,7 +2,7 @@
 
 Hi, I'm Aphiwe Sikhuphela. This is a ✨ special ✨ `README.md` repository for my GitHub profile.
 
-- 🚀 I'm Energetic Software Developer Intern currently working at Younglings, with a strong background in a Software Delopment learning program at Uvu Africa.
+- 🚀 I'm Energetic Software Developer Intern currently working at Younglings Africa, with a strong background in a Software Delopment learning program at Uvu Africa.
 - 🎓 Completed National Diploma for Information Technology at Walter Sisulu University.
 - 🌱 I’m currently learning and exploring new technologies to enhance my skills and knowledge.
 - 📅 Demonstrated leadership as Workshop Coordinator for the Second African Computer and Human Interactions Conference in 2018.
