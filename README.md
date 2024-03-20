@@ -9,9 +9,10 @@ Hi, I'm Aphiwe Sikhuphela. This is a ✨ special ✨ `README.md` repository for 
 - 🌍 Passionate about leveraging technology to solve real-world problems and enhance user experiences.
 - 📈 Proven track record in meeting deadlines and delivering outstanding results.
 - 👯 Open to collaboration and always eager to learn and explore new technologies.
-- 💬 Feel free to ask me about software development, web development, or anything tech-related!
-- 
-  ### Contact Me
+- 💬 Feel free to ask me about software development, web development!
+
+### Contact Me
+
 - 📫 Email at aphiwesikhuphela@gmail.com
 - 📫 [LinkedIn](www.linkedin.com/in/aphiwe-sikhuphela-a80b74284).
   
