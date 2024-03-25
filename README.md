@@ -6,8 +6,6 @@ Hi, I'm Aphiwe Sikhuphela. This is a ✨ special ✨ `README.md` repository for 
 - 🎓 Completed a National Diploma in Information Technology at Walter Sisulu University.
 - 🌱 I’m currently learning and exploring new technologies to enhance my skills and knowledge.
 - 📅 Demonstrated leadership as Workshop Coordinator for the Second African Computer and Human Interactions Conference in 2018.
-- 🌍 Passionate about leveraging technology to solve real-world problems and enhance user experiences.
-- 📈 Proven track record in meeting deadlines and delivering outstanding results.
 - 👯 Open to collaboration and always eager to learn and explore new technologies.
 - 💬 Feel free to ask me about software development, web development!
 
