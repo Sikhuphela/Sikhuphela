@@ -1,13 +1,19 @@
 # About Me
 
-Hi, I'm Aphiwe Sikhuphela. This is a ✨ special ✨ `README.md` repository for my GitHub profile.
+Hi, I'm Aphiwe Sikhuphela. Welcome to my ✨ special ✨ README.md repository for my GitHub profile.
 
-- 🚀 I'm a passionate Software Developer Intern with a strong background in a Software Development Learning Program at Uvu Africa.
-- 🎓 Completed a National Diploma in Information Technology at Walter Sisulu University.
-- 🌱 I’m currently learning and exploring new technologies to enhance my skills and knowledge.
-- 📅 Demonstrated leadership as Workshop Coordinator for the Second African Computer and Human Interactions Conference in 2018.
-- 👯 Open to collaboration and always eager to learn and explore new technologies.
-- 💬 Feel free to ask me about software development, web development!
+🚀 I'm a passionate Junior Software Developer with over a year of hands-on experience in both front-end and back-end development.
+
+🎓 Completed a National Diploma in Information Technology, specializing in Software Development, at Walter Sisulu University.
+
+🌱 Continuously learning and exploring new technologies to stay at the forefront of industry trends, with a current focus on enhancing my skills in C#, .NET core, SQL, and RESTful APIs.
+
+📅 Gained valuable leadership experience as a Workshop Coordinator for the Second African Computer and Human Interactions Conference in 2018.
+
+👯 Always open to collaboration and eager to learn and contribute to innovative projects.
+
+💬 Feel free to reach out to me about software development, web development, or any exciting tech topics!
+
 
 ### Contact Me
 
